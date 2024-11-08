@@ -1,1 +1,4 @@
 streamlit
+streamlit-cookies-controller
+plotly
+pyemvue
